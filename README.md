@@ -16,7 +16,7 @@
 
 # 基本操作常用按键
 
-** 组合按键 **
+**组合按键**
 - C (Ctrl) eg: C-n 指的是 Ctrl+n 光标向下移动
 - M (Alt) Mac中映射为option eg: M-x 指的是 Meta+x 命令扩展 在Mac中可使用 option+x
 - S (Shift)
