@@ -104,3 +104,12 @@
 - C-x <Right> 在多个buffer之间切换
 - C-x k 关闭buffer
 
+#### 帮助文档操作
+
+- C-h t 查看Emacs快速指南
+- C-h f 查看一个函数（命令）的帮助文档
+- M-x help 查看帮助
+- C-h i 查看新息字典文档
+- C-h r 查看使用手册
+
+
