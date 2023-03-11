@@ -100,8 +100,8 @@
 - C-x C-b 列出所有的buffer
 - C-x b 切换到另一个buffer
 - C-x s 保存每个buffer的内容
-- C-x <Left> 在多个buffer之间切换
-- C-x <Right> 在多个buffer之间切换
+- C-x `<Left>` 在多个buffer之间切换
+- C-x `<Right>` 在多个buffer之间切换
 - C-x k 关闭buffer
 
 #### 帮助文档操作
